@@ -2,11 +2,13 @@ import json
 import random
 from string import Template
 from google import generativeai as genai
+from src.db.db import insert_meal_plan
+from src.ai.models import call_model
 from utils import extract_json, fix_json, get_current_date, get_current_week
 
 cuisines = ["Punjabi", "Telugu", "Italian", "Thai", "Bengali", "Moroccan", "Korean"]
 
-def generate_meal_plan_day(day, date, cuisine, week):
+def generate_meal_plan_day(day, date, cuisine, week, model):
     prompt = Template("""
         Generate a weekly meal plan for 2 people in JSON format. The meal plan should include:
         - A breakdown for the day:
@@ -93,22 +95,15 @@ def generate_meal_plan_day(day, date, cuisine, week):
     """)
 
     prompt_for_day = prompt.substitute(day=day, date=date, cuisine=cuisine, week=week)
-    response_gemini = model.generate_content(prompt_for_day)
-    gemini_response_text = response_gemini.text
+    response_text = call_model(prompt_for_day, model)
 
     try:
-        if gemini_response_text is not None:
-            response_text = extract_json(gemini_response_text)
-            response_text = fix_json(response_text)
-            if response_text is None:
-                print("No JSON found in the response.")
-                return None
-        else:
-            response_text = response.choices[0].message.content
-            response_text = fix_json(response_text)
-            if response_text is None:
-                print("No JSON found in the response.")
-                return None
+        response_text = extract_json(response_text)
+        response_text = fix_json(response_text)
+        if response_text is None:
+            print("No JSON found in the response.")
+            return None
+
         meal_plan = json.loads(response_text)
     except json.JSONDecodeError as e:
         print(f"Error decoding JSON: {e}\n")
@@ -116,7 +111,7 @@ def generate_meal_plan_day(day, date, cuisine, week):
 
     return meal_plan
 
-def generate_meal_plan_week():
+def generate_meal_plan_week(model):
     week = get_current_week()
     date = get_current_date()
     json_string = ""
@@ -124,7 +119,7 @@ def generate_meal_plan_week():
     for day in ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]:
         random.shuffle(cuisines)
         cuisine = cuisines[0]
-        meal_plan = generate_meal_plan_day(day, date, cuisine, week)
+        meal_plan = generate_meal_plan_day(day, date, cuisine, week, model)
 
         if meal_plan is not None:
             print(f"Meal plan for {day} generated successfully.")
@@ -141,5 +136,4 @@ def generate_meal_plan_week():
     json_string = "{ " + week + " : " + json_string + " }"
     json_obj = json.loads(json_string)
 
-    with open("meal_plan_gemini1.json", "w") as f:
-        json.dump(json_obj, f, indent=4)
+    insert_meal_plan(json_obj, model)
