@@ -1,0 +1,1271 @@
+{
+    "24-02-2025||02-03-2025": [
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Monday",
+            "date": "25-02-2025",
+            "cuisine": "Bengali",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 70,
+                    "carbs": 150,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 50,
+                    "carbs": 100,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Oatmeal with Banana & Nuts (SB) / Oatmeal with Nuts (SD)",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 30,
+                        "fat": 20,
+                        "carbohydrates": 60,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 300,
+                            "protein": 18,
+                            "fat": 12,
+                            "carbs": 36,
+                            "fiber": 6
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 200,
+                            "protein": 12,
+                            "fat": 8,
+                            "carbs": 24,
+                            "fiber": 4
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Moong Dal Cheela (SB & SD)",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 15,
+                        "fat": 5,
+                        "carbohydrates": 25,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "2 cheelas",
+                            "calories": 120,
+                            "protein": 9,
+                            "fat": 3,
+                            "carbs": 15,
+                            "fiber": 3
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cheela",
+                            "calories": 80,
+                            "protein": 6,
+                            "fat": 2,
+                            "carbs": 10,
+                            "fiber": 2
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Masoor Dal with Spinach and Brown Rice (SB & SD)",
+                    "macros": {
+                        "calories": 600,
+                        "protein": 40,
+                        "fat": 20,
+                        "carbohydrates": 70,
+                        "fiber": 15
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups dal, 1 cup rice",
+                            "calories": 400,
+                            "protein": 27,
+                            "fat": 13,
+                            "carbs": 47,
+                            "fiber": 10
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup dal, 0.5 cup rice",
+                            "calories": 200,
+                            "protein": 13,
+                            "fat": 7,
+                            "carbs": 23,
+                            "fiber": 5
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Spiced Roasted Chickpeas (SB & SD)",
+                    "macros": {
+                        "calories": 150,
+                        "protein": 10,
+                        "fat": 5,
+                        "carbohydrates": 15,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 cup",
+                            "calories": 100,
+                            "protein": 7,
+                            "fat": 3,
+                            "carbs": 10,
+                            "fiber": 3
+                        },
+                        {
+                            "person": "SD",
+                            "size": "0.5 cup",
+                            "calories": 50,
+                            "protein": 3,
+                            "fat": 2,
+                            "carbs": 5,
+                            "fiber": 2
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Chicken Curry with Cauliflower Rice (SB & SD)",
+                    "macros": {
+                        "calories": 550,
+                        "protein": 55,
+                        "fat": 25,
+                        "carbohydrates": 30,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups curry, 1 cup rice",
+                            "calories": 350,
+                            "protein": 35,
+                            "fat": 15,
+                            "carbs": 20,
+                            "fiber": 7
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup curry, 0.5 cup rice",
+                            "calories": 200,
+                            "protein": 20,
+                            "fat": 10,
+                            "carbs": 10,
+                            "fiber": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Tuesday",
+            "date": "25-02-2025",
+            "cuisine": "Moroccan",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 70,
+                    "carbs": 150,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 50,
+                    "carbs": 100,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Beghrir (Moroccan Pancakes) with Honey and Almonds",
+                    "macros": {
+                        "calories": 350,
+                        "protein": 15,
+                        "fat": 10,
+                        "carbohydrates": 60,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "3 pancakes + 1 tbsp honey + 1/4 cup almonds + 1/2 cup berries",
+                            "calories": 400,
+                            "protein": 18,
+                            "fat": 15,
+                            "carbs": 65,
+                            "fiber": 7
+                        },
+                        {
+                            "person": "SD",
+                            "size": "2 pancakes + 1 tbsp honey + 1/4 cup almonds",
+                            "calories": 250,
+                            "protein": 10,
+                            "fat": 7,
+                            "carbs": 40,
+                            "fiber": 3
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Chebakia (Sesame Cookies)",
+                    "macros": {
+                        "calories": 150,
+                        "protein": 3,
+                        "fat": 7,
+                        "carbohydrates": 20,
+                        "fiber": 2
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "2 cookies",
+                            "calories": 150,
+                            "protein": 3,
+                            "fat": 7,
+                            "carbohydrates": 20,
+                            "fiber": 2
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cookie",
+                            "calories": 75,
+                            "protein": 2,
+                            "fat": 4,
+                            "carbohydrates": 10,
+                            "fiber": 1
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Tagine with Chicken, Chickpeas, and Spinach",
+                    "macros": {
+                        "calories": 600,
+                        "protein": 50,
+                        "fat": 25,
+                        "carbohydrates": 60,
+                        "fiber": 15
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 700,
+                            "protein": 60,
+                            "fat": 30,
+                            "carbs": 70,
+                            "fiber": 17
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 450,
+                            "protein": 40,
+                            "fat": 20,
+                            "carbs": 45,
+                            "fiber": 12
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Zaalouk (Moroccan Eggplant and Tomato Salad)",
+                    "macros": {
+                        "calories": 100,
+                        "protein": 2,
+                        "fat": 5,
+                        "carbohydrates": 15,
+                        "fiber": 3
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 cup + 1/4 cup almonds",
+                            "calories": 250,
+                            "protein": 5,
+                            "fat": 15,
+                            "carbs": 20,
+                            "fiber": 4
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1/2 cup",
+                            "calories": 50,
+                            "protein": 1,
+                            "fat": 3,
+                            "carbohydrates": 8,
+                            "fiber": 2
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Harira Soup with Lentil and Chickpea",
+                    "macros": {
+                        "calories": 400,
+                        "protein": 20,
+                        "fat": 10,
+                        "carbohydrates": 60,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 450,
+                            "protein": 23,
+                            "fat": 12,
+                            "carbs": 70,
+                            "fiber": 12
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 300,
+                            "protein": 15,
+                            "fat": 8,
+                            "carbs": 45,
+                            "fiber": 8
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Wednesday",
+            "date": "25-02-2025",
+            "cuisine": "Moroccan",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 70,
+                    "carbs": 200,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 50,
+                    "carbs": 120,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Baghrir (Thousand Hole Pancakes) with Honey and Almonds",
+                    "macros": {
+                        "calories": 350,
+                        "protein": 15,
+                        "fat": 10,
+                        "carbohydrates": 60,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "3 pancakes + 1/4 cup almonds + 1 tbsp honey + 1/2 cup berries",
+                            "calories": 400,
+                            "protein": 18,
+                            "fat": 15,
+                            "carbs": 65,
+                            "fiber": 7
+                        },
+                        {
+                            "person": "SD",
+                            "size": "2 pancakes + 1/8 cup almonds + 1 tsp honey",
+                            "calories": 250,
+                            "protein": 10,
+                            "fat": 7,
+                            "carbs": 40,
+                            "fiber": 3
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Chebakia (Sesame Cookies)",
+                    "macros": {
+                        "calories": 150,
+                        "protein": 3,
+                        "fat": 7,
+                        "carbohydrates": 20,
+                        "fiber": 2
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "3 cookies",
+                            "calories": 150,
+                            "protein": 3,
+                            "fat": 7,
+                            "carbs": 20,
+                            "fiber": 2
+                        },
+                        {
+                            "person": "SD",
+                            "size": "2 cookies",
+                            "calories": 100,
+                            "protein": 2,
+                            "fat": 5,
+                            "carbs": 14,
+                            "fiber": 1
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Tagine with Chicken, Chickpeas, and Spinach",
+                    "macros": {
+                        "calories": 550,
+                        "protein": 45,
+                        "fat": 25,
+                        "carbohydrates": 50,
+                        "fiber": 15
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 650,
+                            "protein": 55,
+                            "fat": 30,
+                            "carbs": 60,
+                            "fiber": 16
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 400,
+                            "protein": 35,
+                            "fat": 18,
+                            "carbs": 40,
+                            "fiber": 10
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Harira Soup",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 10,
+                        "fat": 5,
+                        "carbohydrates": 30,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 300,
+                            "protein": 15,
+                            "fat": 7,
+                            "carbs": 45,
+                            "fiber": 7
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 200,
+                            "protein": 10,
+                            "fat": 5,
+                            "carbs": 30,
+                            "fiber": 5
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Chicken Pastilla",
+                    "macros": {
+                        "calories": 600,
+                        "protein": 50,
+                        "fat": 25,
+                        "carbohydrates": 60,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 servings",
+                            "calories": 700,
+                            "protein": 60,
+                            "fat": 30,
+                            "carbs": 60,
+                            "fiber": 8
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 serving",
+                            "calories": 400,
+                            "protein": 40,
+                            "fat": 20,
+                            "carbs": 30,
+                            "fiber": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Thursday",
+            "date": "25-02-2025",
+            "cuisine": "Telugu",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 60,
+                    "carbs": 200,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 40,
+                    "carbs": 150,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Pesara Attu",
+                    "macros": {
+                        "calories": 350,
+                        "protein": 30,
+                        "fat": 10,
+                        "carbohydrates": 50,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 250,
+                            "protein": 20,
+                            "fat": 7,
+                            "carbs": 35,
+                            "fiber": 7
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 100,
+                            "protein": 10,
+                            "fat": 3,
+                            "carbs": 15,
+                            "fiber": 3
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Pesarattu Punugulu with Peanut Chutney (SB only, no chutney for SD)",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 10,
+                        "fat": 8,
+                        "carbohydrates": 25,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 serving with 1/4 cup chutney",
+                            "calories": 200,
+                            "protein": 10,
+                            "fat": 8,
+                            "carbs": 25,
+                            "fiber": 5
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 serving",
+                            "calories": 150,
+                            "protein": 8,
+                            "fat": 5,
+                            "carbs": 20,
+                            "fiber": 3
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Palakura Pappu (Spinach Dal) with brown rice",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 40,
+                        "fat": 15,
+                        "carbohydrates": 60,
+                        "fiber": 15
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups dal, 1 cup rice",
+                            "calories": 400,
+                            "protein": 30,
+                            "fat": 12,
+                            "carbs": 45,
+                            "fiber": 12
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup dal, 0.5 cup rice",
+                            "calories": 100,
+                            "protein": 10,
+                            "fat": 3,
+                            "carbs": 15,
+                            "fiber": 3
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Sprouts Sundal",
+                    "macros": {
+                        "calories": 150,
+                        "protein": 15,
+                        "fat": 5,
+                        "carbohydrates": 20,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 cup",
+                            "calories": 150,
+                            "protein": 15,
+                            "fat": 5,
+                            "carbs": 20,
+                            "fiber": 5
+                        },
+                        {
+                            "person": "SD",
+                            "size": "0.75 cup",
+                            "calories": 100,
+                            "protein": 10,
+                            "fat": 3,
+                            "carbs": 15,
+                            "fiber": 3
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Tomato Pappu (Tomato Dal) with brown rice and  Gongura Pachadi (SB Only)",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 35,
+                        "fat": 15,
+                        "carbohydrates": 60,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups dal, 1 cup rice, 0.5 cup pachadi",
+                            "calories": 450,
+                            "protein": 30,
+                            "fat": 12,
+                            "carbs": 50,
+                            "fiber": 8
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup dal, 0.5 cup rice",
+                            "calories": 250,
+                            "protein": 15,
+                            "fat": 8,
+                            "carbs": 30,
+                            "fiber": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Friday",
+            "date": "25-02-2025",
+            "cuisine": "Telugu",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 70,
+                    "carbs": 150,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 50,
+                    "carbs": 100,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Pesarattu Upma",
+                    "macros": {
+                        "calories": 350,
+                        "protein": 25,
+                        "fat": 10,
+                        "carbohydrates": 50,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 250,
+                            "protein": 18,
+                            "fat": 7,
+                            "carbs": 35,
+                            "fiber": 7
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 100,
+                            "protein": 7,
+                            "fat": 3,
+                            "carbs": 15,
+                            "fiber": 3
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Sprouts Sundal",
+                    "macros": {
+                        "calories": 150,
+                        "protein": 10,
+                        "fat": 5,
+                        "carbohydrates": 20,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 cup",
+                            "calories": 100,
+                            "protein": 7,
+                            "fat": 3,
+                            "carbs": 14,
+                            "fiber": 4
+                        },
+                        {
+                            "person": "SD",
+                            "size": "0.5 cup",
+                            "calories": 50,
+                            "protein": 3,
+                            "fat": 2,
+                            "carbs": 6,
+                            "fiber": 1
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Palakura Pappu (Spinach Dal) with Brown Rice",
+                    "macros": {
+                        "calories": 600,
+                        "protein": 40,
+                        "fat": 20,
+                        "carbohydrates": 70,
+                        "fiber": 15
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups dal, 1 cup rice",
+                            "calories": 450,
+                            "protein": 30,
+                            "fat": 15,
+                            "carbs": 52,
+                            "fiber": 12
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup dal, 0.5 cup rice",
+                            "calories": 150,
+                            "protein": 10,
+                            "fat": 5,
+                            "carbs": 18,
+                            "fiber": 3
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Peanut Chakkili",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 15,
+                        "fat": 10,
+                        "carbohydrates": 15,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "4 pieces",
+                            "calories": 150,
+                            "protein": 11,
+                            "fat": 8,
+                            "carbs": 11,
+                            "fiber": 4
+                        },
+                        {
+                            "person": "SD",
+                            "size": "2 pieces",
+                            "calories": 50,
+                            "protein": 4,
+                            "fat": 2,
+                            "carbs": 4,
+                            "fiber": 1
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Chicken Chettinad with Brown Rice",
+                    "macros": {
+                        "calories": 600,
+                        "protein": 50,
+                        "fat": 25,
+                        "carbohydrates": 50,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 450,
+                            "protein": 37,
+                            "fat": 18,
+                            "carbs": 38,
+                            "fiber": 8
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 150,
+                            "protein": 13,
+                            "fat": 7,
+                            "carbs": 12,
+                            "fiber": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Saturday",
+            "date": "25-02-2025",
+            "cuisine": "Bengali",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 60,
+                    "carbs": 210,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 40,
+                    "carbs": 140,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Oatmeal with Banana and Nuts (SB) / Oatmeal with Nuts (SD)",
+                    "macros": {
+                        "calories": 400,
+                        "protein": 20,
+                        "fat": 15,
+                        "carbohydrates": 60,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 300,
+                            "protein": 15,
+                            "fat": 10,
+                            "carbs": 45,
+                            "fiber": 8
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 100,
+                            "protein": 5,
+                            "fat": 5,
+                            "carbs": 15,
+                            "fiber": 2
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Moong Dal Cheela (SB & SD)",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 15,
+                        "fat": 5,
+                        "carbohydrates": 30,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "2 cheelas",
+                            "calories": 150,
+                            "protein": 10,
+                            "fat": 5,
+                            "carbs": 20,
+                            "fiber": 4
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cheela",
+                            "calories": 50,
+                            "protein": 5,
+                            "fat": 0,
+                            "carbs": 10,
+                            "fiber": 1
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Shukto with Brown Rice and Steamed Chicken (SB & SD)",
+                    "macros": {
+                        "calories": 600,
+                        "protein": 50,
+                        "fat": 20,
+                        "carbohydrates": 60,
+                        "fiber": 15
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 450,
+                            "protein": 40,
+                            "fat": 15,
+                            "carbs": 45,
+                            "fiber": 10
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 150,
+                            "protein": 10,
+                            "fat": 5,
+                            "carbs": 15,
+                            "fiber": 5
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Mixed Nuts and Seeds (SB & SD)",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 10,
+                        "fat": 15,
+                        "carbohydrates": 10,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1/2 cup",
+                            "calories": 150,
+                            "protein": 7,
+                            "fat": 10,
+                            "carbs": 7,
+                            "fiber": 3
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1/4 cup",
+                            "calories": 50,
+                            "protein": 3,
+                            "fat": 5,
+                            "carbs": 3,
+                            "fiber": 2
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Doi Maach (SB & SD)",
+                    "macros": {
+                        "calories": 600,
+                        "protein": 45,
+                        "fat": 25,
+                        "carbohydrates": 40,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 450,
+                            "protein": 35,
+                            "fat": 20,
+                            "carbs": 30,
+                            "fiber": 7
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 150,
+                            "protein": 10,
+                            "fat": 5,
+                            "carbs": 10,
+                            "fiber": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Sunday",
+            "date": "25-02-2025",
+            "cuisine": "Korean",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 60,
+                    "carbs": 180,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 40,
+                    "carbs": 120,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "\ub2ed\uac00\uc2b4\uc0b4 \uacc4\ub780 \ubcf6\uc74c\ubc25 (Dak-gaseumsal gyeran bokkeumbap - Chicken Breast and Egg Fried Rice)",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 40,
+                        "fat": 20,
+                        "carbohydrates": 50,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups",
+                            "calories": 375,
+                            "protein": 30,
+                            "fat": 15,
+                            "carbs": 37.5,
+                            "fiber": 3.75
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup",
+                            "calories": 250,
+                            "protein": 20,
+                            "fat": 10,
+                            "carbs": 25,
+                            "fiber": 2.5
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "\uae40\uce58 (Kimchi)",
+                    "macros": {
+                        "calories": 50,
+                        "protein": 2,
+                        "fat": 1,
+                        "carbohydrates": 8,
+                        "fiber": 2
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1/2 cup",
+                            "calories": 50,
+                            "protein": 2,
+                            "fat": 1,
+                            "carbs": 8,
+                            "fiber": 2
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1/4 cup",
+                            "calories": 25,
+                            "protein": 1,
+                            "fat": 0.5,
+                            "carbs": 4,
+                            "fiber": 1
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "\ube44\ube54\ubc25 (Bibimbap - Mixed Rice with Vegetables and Beef)",
+                    "macros": {
+                        "calories": 650,
+                        "protein": 50,
+                        "fat": 25,
+                        "carbohydrates": 70,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.25 bowls",
+                            "calories": 542,
+                            "protein": 42,
+                            "fat": 21,
+                            "carbs": 58,
+                            "fiber": 8
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 bowl",
+                            "calories": 433,
+                            "protein": 33,
+                            "fat": 17,
+                            "carbs": 47,
+                            "fiber": 7
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "\ub450\ubd80\uae40\uce58 (Dubu Kimchi - Tofu with Kimchi)",
+                    "macros": {
+                        "calories": 150,
+                        "protein": 15,
+                        "fat": 8,
+                        "carbohydrates": 7,
+                        "fiber": 3
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 servings",
+                            "calories": 113,
+                            "protein": 11,
+                            "fat": 6,
+                            "carbs": 5,
+                            "fiber": 2
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 serving",
+                            "calories": 75,
+                            "protein": 8,
+                            "fat": 4,
+                            "carbs": 4,
+                            "fiber": 2
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "\uae40\uce58\ucc0c\uac1c (Kimchi jjigae - Kimchi Stew)",
+                    "macros": {
+                        "calories": 650,
+                        "protein": 40,
+                        "fat": 20,
+                        "carbohydrates": 75,
+                        "fiber": 15
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.25 bowls",
+                            "calories": 542,
+                            "protein": 33,
+                            "fat": 17,
+                            "carbs": 63,
+                            "fiber": 13
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 bowl",
+                            "calories": 433,
+                            "protein": 27,
+                            "fat": 13,
+                            "carbs": 50,
+                            "fiber": 10
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

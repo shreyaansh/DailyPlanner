@@ -1,0 +1,917 @@
+{
+    "24-02-2025||02-03-2025": [
+        {
+            "week": "24-02-2025 || 02-03-2025",
+            "day": "Monday",
+            "date": "24-02-2025",
+            "cuisine": "Bengali",
+            "total macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 70,
+                    "carbs": 250,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 50,
+                    "carbs": 150,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Daal puri",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 20,
+                        "fat": 15,
+                        "carbohydrates": 75,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "2 puris"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 puri"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Chicken chop",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 15,
+                        "fat": 8,
+                        "carbohydrates": 15,
+                        "fiber": 3
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "2 pieces"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 piece"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Macher jhol with rice",
+                    "macros": {
+                        "calories": 600,
+                        "protein": 40,
+                        "fat": 20,
+                        "carbohydrates": 100,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 bowl of rice and 2 pieces of fish"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1/2 bowl of rice and 1 piece of fish"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Aloo kabli",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 5,
+                        "fat": 10,
+                        "carbohydrates": 30,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 bowl"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1/2 bowl"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Palak paneer with roti",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 50,
+                        "fat": 17,
+                        "carbohydrates": 30,
+                        "fiber": 12
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "2 rotis and 1 bowl of palak paneer"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 roti and 1/2 bowl of palak paneer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Tuesday",
+            "date": "24-02-2025",
+            "cuisine": "Italian",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 44,
+                    "carbs": 250,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 47,
+                    "carbs": 175,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Frittata con spinaci",
+                    "macros": {
+                        "calories": 400,
+                        "protein": 25,
+                        "fat": 20,
+                        "carbohydrates": 30,
+                        "fiber": 6
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "Large"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "Medium"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Frutta e yogurt",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 12,
+                        "fat": 2,
+                        "carbohydrates": 30,
+                        "fiber": 4
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 bowl"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Pollo alla cacciatora con broccoli",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 40,
+                        "fat": 15,
+                        "carbohydrates": 45,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "Large"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "Medium"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Formaggio e crackers",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 10,
+                        "fat": 12,
+                        "carbohydrates": 15,
+                        "fiber": 2
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "Medium"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "Medium"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Salmon Piccata con Kale",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 45,
+                        "fat": 20,
+                        "carbohydrates": 35,
+                        "fiber": 7
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "Large"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "Medium"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Wednesday",
+            "date": "24-02-2025",
+            "cuisine": "Telugu",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 70,
+                    "carbs": 210,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 50,
+                    "carbs": 150,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Upma",
+                    "macros": {
+                        "calories": 320,
+                        "protein": 20,
+                        "fat": 10,
+                        "carbs": 30,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "large"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "medium"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Paneer Tikka",
+                    "macros": {
+                        "calories": 100,
+                        "protein": 15,
+                        "fat": 10,
+                        "carbs": 5,
+                        "fiber": 2
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "large"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "medium"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Pulusu & Rice",
+                    "macros": {
+                        "calories": 400,
+                        "protein": 25,
+                        "fat": 15,
+                        "carbs": 50,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "large"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "medium"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Tofu Salad",
+                    "macros": {
+                        "calories": 150,
+                        "protein": 20,
+                        "fat": 5,
+                        "carbs": 15,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "large"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "medium"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Broccoli and Chicken Curry & Quinoa",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 40,
+                        "fat": 20,
+                        "carbs": 30,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "large"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "medium"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Thursday",
+            "date": "24-02-2025",
+            "cuisine": "Greek",
+            "total macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 70,
+                    "carbs": 250,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 50,
+                    "carbs": 175,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Spanakopita",
+                    "macros": {
+                        "calories": 470,
+                        "protein": 35,
+                        "fat": 17,
+                        "carbohydrates": 46,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "2 pieces"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1.5 pieces"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Barbounia",
+                    "macros": {
+                        "calories": 180,
+                        "protein": 22,
+                        "fat": 5,
+                        "carbohydrates": 9,
+                        "fiber": 2
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 fish"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "0.75 fish"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Moussaka",
+                    "macros": {
+                        "calories": 600,
+                        "protein": 40,
+                        "fat": 26,
+                        "carbohydrates": 48,
+                        "fiber": 8
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 pieces"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 piece"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Spanakorizo",
+                    "macros": {
+                        "calories": 250,
+                        "protein": 12,
+                        "fat": 9,
+                        "carbohydrates": 32,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 cup"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "0.75 cups"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Stifado",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 43,
+                        "fat": 13,
+                        "carbohydrates": 60,
+                        "fiber": 7
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cups"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Monday",
+            "date": "24-02-2025",
+            "cuisine": "Bengali",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 90,
+                    "carbs": 225,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 60,
+                    "carbs": 175,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Cholar Dal and Paratha",
+                    "macros": {
+                        "calories": 400,
+                        "protein": 15,
+                        "fat": 20,
+                        "carbohydrates": 45,
+                        "fiber": 8
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 bowl dal with 2 parathas"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "0.75 bowl dal with 1 paratha"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Masala Muri",
+                    "macros": {
+                        "calories": 150,
+                        "protein": 3,
+                        "fat": 5,
+                        "carbohydrates": 25,
+                        "fiber": 4
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 bowl"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "0.75 bowl"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Shorshe Bata Die Macher Jhol with Boiled Rice",
+                    "macros": {
+                        "calories": 600,
+                        "protein": 45,
+                        "fat": 20,
+                        "carbohydrates": 65,
+                        "fiber": 8
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1.5 cup jhol with 1 cup rice"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 cup jhol with 0.75 cup rice"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Bhapa Doi",
+                    "macros": {
+                        "calories": 150,
+                        "protein": 8,
+                        "fat": 3,
+                        "carbohydrates": 20,
+                        "fiber": 0
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "0.75 cup"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "0.5 cup"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Patla Khichuri with begun bhaja",
+                    "macros": {
+                        "calories": 700,
+                        "protein": 35,
+                        "fat": 20,
+                        "carbohydrates": 70,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "2 cups khichuri with 1 piece begun bhaja"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1.5 cups khichuri with 1 piece begun bhaja"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Saturday",
+            "date": "24-02-2025",
+            "cuisine": "Thai",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 80,
+                    "carbs": 250,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 60,
+                    "carbs": 170,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Kai Jeow",
+                    "macros": {
+                        "calories": 250,
+                        "protein": 20,
+                        "fat": 10,
+                        "carbohydrates": 15,
+                        "fiber": 2
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 large"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 small"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Som Tum",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 5,
+                        "fat": 3,
+                        "carbohydrates": 40,
+                        "fiber": 7
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 large"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 small"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Pad Thai",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 30,
+                        "fat": 20,
+                        "carbohydrates": 60,
+                        "fiber": 5
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 large"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 small"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Satay and Peanut Sauce",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 25,
+                        "fat": 10,
+                        "carbohydrates": 10,
+                        "fiber": 3
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "4 pieces"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "2 pieces"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Green Curry with Tofu",
+                    "macros": {
+                        "calories": 500,
+                        "protein": 30,
+                        "fat": 15,
+                        "carbohydrates": 50,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "2 cups"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1.5 cups"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "week": "24-02-2025||02-03-2025",
+            "day": "Sunday",
+            "date": "24-02-2025",
+            "cuisine": "Moroccan",
+            "total_macros": [
+                {
+                    "person": "SB",
+                    "calories": 2000,
+                    "protein": 130,
+                    "fat": 70,
+                    "carbs": 250,
+                    "fiber": 40
+                },
+                {
+                    "person": "SD",
+                    "calories": 1400,
+                    "protein": 100,
+                    "fat": 50,
+                    "carbs": 180,
+                    "fiber": 30
+                }
+            ],
+            "meals": [
+                {
+                    "meal_type": "Breakfast",
+                    "recipe": "Batbout",
+                    "macros": {
+                        "calories": 400,
+                        "protein": 18,
+                        "fat": 16,
+                        "carbohydrates": 50,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "2 piece"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 piece"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 1",
+                    "recipe": "Bourekas",
+                    "macros": {
+                        "calories": 150,
+                        "protein": 5,
+                        "fat": 7,
+                        "carbohydrates": 20,
+                        "fiber": 2
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "2 piece"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 piece"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Lunch",
+                    "recipe": "Couscous bi Tmar",
+                    "macros": {
+                        "calories": 550,
+                        "protein": 35,
+                        "fat": 18,
+                        "carbohydrates": 70,
+                        "fiber": 10
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 serving"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 serving"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Snack 2",
+                    "recipe": "Zalouk",
+                    "macros": {
+                        "calories": 200,
+                        "protein": 8,
+                        "fat": 10,
+                        "carbohydrates": 20,
+                        "fiber": 8
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 serving"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 serving"
+                        }
+                    ]
+                },
+                {
+                    "meal_type": "Dinner",
+                    "recipe": "Tagine bil hoot",
+                    "macros": {
+                        "calories": 700,
+                        "protein": 50,
+                        "fat": 30,
+                        "carbohydrates": 80,
+                        "fiber": 8
+                    },
+                    "portions": [
+                        {
+                            "person": "SB",
+                            "size": "1 serving"
+                        },
+                        {
+                            "person": "SD",
+                            "size": "1 serving"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
