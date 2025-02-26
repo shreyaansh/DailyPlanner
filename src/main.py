@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import os
 import tiktoken
 from src.meal_plan_generator.meal_plan_generator import generate_meal_plan_week
-from src.utils.db import get_mongo_client
+from src.db.db import get_mongo_client
 
 load_dotenv()
 
