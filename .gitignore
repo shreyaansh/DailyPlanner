@@ -1,2 +1,6 @@
 .env
 venv/
+ai/__pycache__/
+db/__pycache__/
+scoring/__pycache__/
+utils/__pycache__/

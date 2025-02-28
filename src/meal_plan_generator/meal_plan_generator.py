@@ -2,9 +2,9 @@ import json
 import random
 from string import Template
 from google import generativeai as genai
-from src.db.db import insert_meal_plan
-from src.ai.models import call_model
-from utils import extract_json, fix_json, get_current_date, get_current_week
+from db.db import insert_meal_plan_into_db
+from ai.models import call_model
+from utils.utils import extract_json, fix_json, get_current_date, get_current_week
 
 cuisines = ["Punjabi", "Telugu", "Italian", "Thai", "Bengali", "Moroccan", "Korean"]
 
@@ -136,4 +136,4 @@ def generate_meal_plan_week(model):
     json_string = "{ " + week + " : " + json_string + " }"
     json_obj = json.loads(json_string)
 
-    insert_meal_plan(json_obj, model)
+    insert_meal_plan_into_db(json_obj, model)

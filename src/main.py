@@ -4,8 +4,8 @@ from string import Template
 from dotenv import load_dotenv
 import os
 import tiktoken
-from src.meal_plan_generator.meal_plan_generator import generate_meal_plan_week
-from src.db.db import get_mongo_client
+from meal_plan_generator.meal_plan_generator import generate_meal_plan_week
+from db.db import get_mongo_client
 
 load_dotenv()
 
@@ -39,7 +39,7 @@ def get_token_count(text):
 def main():
     print("Welcome to DailyPlanner!")
     print("Generating your weekly meal plan...")
-    generate_meal_plan_week()
+    generate_meal_plan_week("gpt-4")
     print("Meal plans generated and saved to files.")
 
 if __name__ == "__main__":
