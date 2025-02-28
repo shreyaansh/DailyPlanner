@@ -20,8 +20,198 @@ def score_variety(uniqueness_percent):
     """Score variety as a percentage of uniqueness."""
     return uniqueness_percent  # The percentage of variety (0 to 100)
 
-def score_healthiness(health_score):
+# Example of scoring healthiness based on nutrition data
+def score_healthiness(nutrition_data):
+    """Score healthiness based on nutritional values."""
+    protein_score = 0
+    fat_score = 0
+    carb_score = 0
+    fiber_score = 0
+    sodium_sugar_score = 0
+    micronutrient_score = 0
+
+    # Protein: Aim for 20g or more per meal
+    if nutrition_data['protein'] >= 30:
+        protein_score = 5
+    elif nutrition_data['protein'] >= 20:
+        protein_score = 4
+    elif nutrition_data['protein'] >= 10:
+        protein_score = 3
+    elif nutrition_data['protein'] >= 5:
+        protein_score = 2
+    else:
+        protein_score = 1
+
+    # Fat Composition: Favor healthy fats
+    if nutrition_data['fat_source'] == 'healthy':
+        fat_score = 5
+    elif nutrition_data['fat_source'] == 'moderate':
+        fat_score = 4
+    elif nutrition_data['fat_source'] == 'unhealthy':
+        fat_score = 2
+    else:
+        fat_score = 1
+
+    # Carbohydrates: Prefer complex carbs
+    if nutrition_data['carbs'] == 'complex':
+        carb_score = 5
+    elif nutrition_data['carbs'] == 'balanced':
+        carb_score = 4
+    elif nutrition_data['carbs'] == 'simple':
+        carb_score = 3
+    else:
+        carb_score = 1
+
+    # Fiber: Aim for ≥10g of fiber
+    if nutrition_data['fiber'] >= 10:
+        fiber_score = 5
+    elif nutrition_data['fiber'] >= 7:
+        fiber_score = 4
+    elif nutrition_data['fiber'] >= 4:
+        fiber_score = 3
+    elif nutrition_data['fiber'] >= 2:
+        fiber_score = 2
+    else:
+        fiber_score = 1
+
+    # Sodium and Sugar: Prefer low amounts of both
+    if nutrition_data['sodium'] < 300 and nutrition_data['sugar'] < 5:
+        sodium_sugar_score = 5
+    elif nutrition_data['sodium'] < 500 and nutrition_data['sugar'] < 10:
+        sodium_sugar_score = 4
+    elif nutrition_data['sodium'] < 1000 and nutrition_data['sugar'] < 15:
+        sodium_sugar_score = 3
+    elif nutrition_data['sodium'] < 1500 and nutrition_data['sugar'] < 20:
+        sodium_sugar_score = 2
+    else:
+        sodium_sugar_score = 1
+
+    # Micronutrient Density: Score based on variety and nutrient-rich foods
+    if nutrition_data['micronutrients'] == 'high':
+        micronutrient_score = 5
+    elif nutrition_data['micronutrients'] == 'moderate':
+        micronutrient_score = 4
+    elif nutrition_data['micronutrients'] == 'low':
+        micronutrient_score = 3
+    else:
+        micronutrient_score = 1
+
+    # Return total health score
+    health_score = sum([protein_score, fat_score, carb_score, fiber_score, sodium_sugar_score, micronutrient_score])
+    return health_score
+
+# Example nutrition data for a meal
+nutrition_data = {
+    'protein': 25,  # in grams
+    'fat_source': 'healthy',
+    'carbs': 'complex',
+    'fiber': 8,  # in grams
+    'sodium': 350,  # in mg
+    'sugar': 3,  # in grams
+    'micronutrients': 'high'  # indicates nutrient-rich ingredients like greens, fruits
+}
+
+# Calculate healthiness score
+healthiness_score = score_healthiness(nutrition_data)
+print(f"Healthiness Score: {healthiness_score}")
+
+
+def score_healthiness(nutrition_data):
     """Score healthiness on a scale of 1 to 5."""
+    # Example of scoring healthiness based on nutrition data
+    """Score healthiness based on nutritional values."""
+    protein_score = 0
+    fat_score = 0
+    carb_score = 0
+    fiber_score = 0
+    sodium_sugar_score = 0
+    micronutrient_score = 0
+
+    # Protein: Aim for 20g or more per meal
+    if nutrition_data['protein'] >= 30:
+        protein_score = 5
+    elif nutrition_data['protein'] >= 20:
+        protein_score = 4
+    elif nutrition_data['protein'] >= 10:
+        protein_score = 3
+    elif nutrition_data['protein'] >= 5:
+        protein_score = 2
+    else:
+        protein_score = 1
+
+    # Fat Composition: Favor healthy fats
+    if nutrition_data['fat_source'] == 'healthy':
+        fat_score = 5
+    elif nutrition_data['fat_source'] == 'moderate':
+        fat_score = 4
+    elif nutrition_data['fat_source'] == 'unhealthy':
+        fat_score = 2
+    else:
+        fat_score = 1
+
+    # Carbohydrates: Prefer complex carbs
+    if nutrition_data['carbs'] == 'complex':
+        carb_score = 5
+    elif nutrition_data['carbs'] == 'balanced':
+        carb_score = 4
+    elif nutrition_data['carbs'] == 'simple':
+        carb_score = 3
+    else:
+        carb_score = 1
+
+    # Fiber: Aim for ≥10g of fiber
+    if nutrition_data['fiber'] >= 10:
+        fiber_score = 5
+    elif nutrition_data['fiber'] >= 7:
+        fiber_score = 4
+    elif nutrition_data['fiber'] >= 4:
+        fiber_score = 3
+    elif nutrition_data['fiber'] >= 2:
+        fiber_score = 2
+    else:
+        fiber_score = 1
+
+        # Sodium: Score based on sodium content
+    if nutrition_data['sodium'] < 300:
+        sodium_score = 5
+    elif nutrition_data['sodium'] < 500:
+        sodium_score = 4
+    elif nutrition_data['sodium'] < 1000:
+        sodium_score = 3
+    elif nutrition_data['sodium'] < 1500:
+        sodium_score = 2
+    else:
+        sodium_score = 1
+
+    # Sugar: Score based on sugar content
+    if nutrition_data['sugar'] < 5:
+        sugar_score = 5
+    elif nutrition_data['sugar'] < 10:
+        sugar_score = 4
+    elif nutrition_data['sugar'] < 15:
+        sugar_score = 3
+    elif nutrition_data['sugar'] < 20:
+        sugar_score = 2
+    else:
+        sugar_score = 1
+
+    # Micronutrient Density: Score based on variety and nutrient-rich foods
+    if nutrition_data['micronutrients'] == 'high':
+        micronutrient_score = 5
+    elif nutrition_data['micronutrients'] == 'moderate':
+        micronutrient_score = 4
+    elif nutrition_data['micronutrients'] == 'low':
+        micronutrient_score = 3
+    else:
+        micronutrient_score = 1
+
+    # Return total health score
+    health_score = sum([protein_score, fat_score, carb_score, fiber_score, sodium_score, sugar_score, micronutrient_score])
+
+    # # Calculate healthiness score
+    # healthiness_score = score_healthiness(nutrition_data)
+    # print(f"Healthiness Score: {healthiness_score}")
+
     return health_score
 
 def score_nutrient_balance(nutrient_balance_percent):
